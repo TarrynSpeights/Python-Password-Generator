@@ -24,6 +24,4 @@ Open a terminal in the project folder and enter:
 python3 password_generator.py
 ```
 
-## Author
 
-Tarryn Speights
