@@ -1,5 +1,7 @@
 # Python Password Generator
 
+![Program Demo](program_demo.png)
+
 A Python program that generates random passwords based on the length selected by the user.
 
 ## Features
